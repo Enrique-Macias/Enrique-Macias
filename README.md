@@ -5,7 +5,7 @@
 > Currently Studying a B.S in Computer Science and Technology at <br>Instituto Tecnológico y de Estudios Superiores de Monterrey Campus Monterrey
 
 
-<img src="https://komarev.com/ghpvc/?username=enrique-macias" alt="enrique-macias" />
+<img src="https://komarev.com/ghpvc/?username=Enrique-Macias" alt="Enrique-Macias" />
 
 <div>
  <p>
@@ -17,14 +17,30 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ### Programming Languages 👨🏽‍💻
 
-| [<img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/html5.svg" alt="HTML" width="24">] | [<img src="" alt="CSS" width="38">] | [<img src="" alt="JS" width="24">] | [<img src="" alt="Python" width="24">] | [<img src="" alt="C++" width="24">] | [<img src="" alt="Swift" width="24">]
+| <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/html5.svg" alt="HTML" width="24"> | <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/css.svg" alt="CSS" width="24"> | <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/javascript.svg" alt="JS" width="24"> | <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/python.svg" alt="Python" width="44"> | <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/c%2B%2B.svg" alt="C++" width="24"> | <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/swift.svg" alt="Swift" width="24">
 |---|---|---|---|---|---|
  
 ### Tools 🛠️
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="24">](https://www.mysql.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" width="24">](https://firebase.google.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="24">](https://git-scm.com/) |  [<img src="https://logonoid.com/images/phpstorm-logo.png" alt="Phpstorm" width="24">](https://www.jetbrains.com/phpstorm/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="24">](https://ubuntu.com/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" alt="Redis" width="24">](https://redis.io/) | Varnish Cache | many more...
-|---|---|---|---|---|---|---|---|---|
+| <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/git.svg" alt="Git" width="24"> | <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/vscode.svg" alt="VSCode" width="24"> | <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/canva.svg" alt="Canva" width="24"> 
+|---|---|---|
 
+### Frameworks and libraries 📚
+
+| <img src="" alt="Bootstrap" width="24"> | <img src="" alt="Flutter" width="24"> 
+|---|---|
+
+### Databases ⛁
+
+| <img src="" alt="HTML" width="24"> | <img src="" alt="CSS" width="24"> | <img src="" alt="JS" width="24"> | <img src="" alt="Python" width="24"> | <img src="" alt="C++" width="24"> |<img src="" alt="Swift" width="24">
+|---|---|---|---|---|---|
+
+### To learn 📖
+
+| <img src="" alt="HTML" width="24"> | <img src="" alt="CSS" width="24"> | <img src="" alt="JS" width="24"> | <img src="" alt="Python" width="24"> | <img src="" alt="C++" width="24"> |<img src="" alt="Swift" width="24">
+|---|---|---|---|---|---|
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enrique-Macias&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Enrique-Macias/github-readme-stats)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
