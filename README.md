@@ -1,4 +1,4 @@
-<img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/header.svg"/>
+<img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Social-Icons/header_EM.svg"/>
 
 
 ### Hi there 👋 I'm [Enrique Macías López](https://instagram.com/enriquemaciasl_/)
