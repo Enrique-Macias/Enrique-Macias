@@ -22,7 +22,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
  
 ### Tools 🛠️
 
-| <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/git.svg" alt="Git" width="24"> | <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/vscode.svg" alt="VSCode" width="24"> | <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/xcode_logo.png" alt="Xcode" width="24">  |<img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/canva.svg" alt="Canva" width="24"> 
+| <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/git.svg" alt="Git" width="24"> | <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/vscode.svg" alt="VSCode" width="24"> | <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/xcode_logo.png" alt="Xcode" width="28">  |<img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/canva.svg" alt="Canva" width="26"> 
 |---|---|---|---|
 
 ### Frameworks and libraries 📚
@@ -32,21 +32,21 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ### Databases ⛁
 
-| <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/firebase.svg" alt="Firebase" width="24"> | <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/mysql.svg" alt="MySQL" width="24"> | <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/sql-server.svg" alt="SQLServer" width="24"> 
-|---|---|---|
+| <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/firebase.svg" alt="Firebase" width="24"> | <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/sql-server.svg" alt="SQLServer" width="30"> 
+|---|---|
 
 ### To learn 📖
 
-| <img src="" alt="Docker" width="24"> | <img src="" alt="CSS" width="24"> | <img src="" alt="JS" width="24"> | <img src="" alt="Python" width="24"> | <img src="" alt="C++" width="24"> |<img src="" alt="Swift" width="24">
-|---|---|---|---|---|---|
+| <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/docker.svg" alt="Docker" width="24"> | <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/mysql.svg" alt="MySQL" width="24"> | <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/tailwindcss.svg" alt="TailwindCSS" width="30"> | <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/mongodb-wordmark.svg" alt="MongoDB" width="64"> 
+|---|---|---|---|
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enrique-Macias&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Enrique-Macias/github-readme-stats)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-&nbsp; <a href="https://www.instagram.com/enriquemaciasl_/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/icons8-instagram.svg" width="50" /></a>  
-&nbsp; <a href="mailto:kiki.macias1@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/icons8-gmail.svg"  width="50" /></a>
-&nbsp; <a href="https://www.linkedin.com/in/souvik-guria-/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/icons8-linkedin.svg" width="50" /></a>
- &nbsp; <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/icons8-dominio-48.png" width="50" /></a>
+&nbsp; <a href="https://www.instagram.com/enriquemaciasl_/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Social-Icons/icons8-instagram.svg" width="50" /></a>  
+&nbsp; <a href="mailto:kiki_macias1@hotmail.com" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/outlook.svg"  width="50" /></a>
+&nbsp; <a href="www.linkedin.com/in/enrique-macias-lopez" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Social-Icons/icons8-linkedin.svg" width="50" /></a>
+ &nbsp; <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Social-Icons/icons8-dominio-48.png" width="50" /></a>
 </p>
