@@ -22,22 +22,22 @@ I have excellent design & coding skills, as well as an ability to convert requir
  
 ### Tools 🛠️
 
-| <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/git.svg" alt="Git" width="24"> | <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/vscode.svg" alt="VSCode" width="24"> | <img src="" alt="Xcode" width="24">  |<img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/canva.svg" alt="Canva" width="24"> 
+| <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/git.svg" alt="Git" width="24"> | <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/vscode.svg" alt="VSCode" width="24"> | <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/xcode_logo.png" alt="Xcode" width="24">  |<img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/canva.svg" alt="Canva" width="24"> 
 |---|---|---|---|
 
 ### Frameworks and libraries 📚
 
-| <img src="" alt="Bootstrap" width="24"> | <img src="" alt="Flutter" width="24"> | <img src="" alt="NodeJS" width="24"> | <img src="" alt="React" width="24">
+| <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/bootstrap.svg" alt="Bootstrap" width="26"> | <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/flutter.svg" alt="Flutter" width="24"> | <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/nodejs.svg" alt="NodeJS" width="24"> | <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/react.svg" alt="React" width="24">
 |---|---|---|---|
 
 ### Databases ⛁
 
-| <img src="" alt="HTML" width="24"> | <img src="" alt="CSS" width="24"> | <img src="" alt="JS" width="24"> | <img src="" alt="Python" width="24"> | <img src="" alt="C++" width="24"> |<img src="" alt="Swift" width="24">
-|---|---|---|---|---|---|
+| <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/firebase.svg" alt="Firebase" width="24"> | <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/mysql.svg" alt="MySQL" width="24"> | <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/sql-server.svg" alt="SQLServer" width="24"> 
+|---|---|---|
 
 ### To learn 📖
 
-| <img src="" alt="HTML" width="24"> | <img src="" alt="CSS" width="24"> | <img src="" alt="JS" width="24"> | <img src="" alt="Python" width="24"> | <img src="" alt="C++" width="24"> |<img src="" alt="Swift" width="24">
+| <img src="" alt="Docker" width="24"> | <img src="" alt="CSS" width="24"> | <img src="" alt="JS" width="24"> | <img src="" alt="Python" width="24"> | <img src="" alt="C++" width="24"> |<img src="" alt="Swift" width="24">
 |---|---|---|---|---|---|
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enrique-Macias&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Enrique-Macias/github-readme-stats)
