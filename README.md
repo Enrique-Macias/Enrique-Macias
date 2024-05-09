@@ -22,13 +22,13 @@ I have excellent design & coding skills, as well as an ability to convert requir
  
 ### Tools 🛠️
 
-| <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/git.svg" alt="Git" width="24"> | <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/vscode.svg" alt="VSCode" width="24"> | <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/canva.svg" alt="Canva" width="24"> 
-|---|---|---|
+| <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/git.svg" alt="Git" width="24"> | <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/vscode.svg" alt="VSCode" width="24"> | <img src="" alt="Xcode" width="24">  |<img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/canva.svg" alt="Canva" width="24"> 
+|---|---|---|---|
 
 ### Frameworks and libraries 📚
 
-| <img src="" alt="Bootstrap" width="24"> | <img src="" alt="Flutter" width="24"> 
-|---|---|
+| <img src="" alt="Bootstrap" width="24"> | <img src="" alt="Flutter" width="24"> | <img src="" alt="NodeJS" width="24"> | <img src="" alt="React" width="24">
+|---|---|---|---|
 
 ### Databases ⛁
 
