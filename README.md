@@ -15,6 +15,17 @@ I have excellent design & coding skills, as well as an ability to convert requir
 </p>
 </div>
 
+<h3> 👨🏻‍💻 About Me </h3>
+
+- 🔭 &nbsp; I’m currently learning Flutter Application Development
+- 🤔 &nbsp; Delving into new technologies, developing innovative software solutions, and constantly seeking to optimize everyday processes through technology.
+- 🎓 &nbsp; I’m a Junior Studying Computer Science and Technology at ITESM.
+- 💼 &nbsp; iOS developer and Full-Stack web developer.
+- 🌱 &nbsp; Enthusiast about Artificial Intelligence.
+- 💪🎾 &nbsp; Fitness guy, avid tennis player and a regular gym-goer.
+- ☕️ &nbsp; I find that a meticulously caramel latte is my secret weapon for tackling challenging code.
+
+
 ### Programming Languages 👨🏽‍💻
 
 | <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/html5.svg" alt="HTML" width="24"> | <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/css.svg" alt="CSS" width="24"> | <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/javascript.svg" alt="JS" width="24"> | <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/python.svg" alt="Python" width="44"> | <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/c%2B%2B.svg" alt="C++" width="24"> | <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/swift.svg" alt="Swift" width="24">
