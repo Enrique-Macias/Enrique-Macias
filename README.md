@@ -17,7 +17,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Flutter Application Development
+- 🔭 &nbsp; I’m currently learning Dart & Flutter Application Development
 - 🤔 &nbsp; Delving into new technologies, developing innovative software solutions, and constantly seeking to optimize everyday processes through technology.
 - 🎓 &nbsp; I’m a Junior Studying Computer Science and Technology at ITESM.
 - 💼 &nbsp; iOS developer and Full-Stack web developer.
@@ -48,8 +48,8 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ### To learn 📖
 
-| <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/docker.svg" alt="Docker" width="24"> | <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/mysql.svg" alt="MySQL" width="24"> | <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/tailwindcss.svg" alt="TailwindCSS" width="30"> | <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/mongodb-wordmark.svg" alt="MongoDB" width="64"> 
-|---|---|---|---|
+| <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/docker.svg" alt="Docker" width="24"> | <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/mysql.svg" alt="MySQL" width="24"> | <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/tailwindcss.svg" alt="TailwindCSS" width="30"> | <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/mongodb-wordmark.svg" alt="MongoDB" width="64"> | <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/dart.svg" alt="Dart" width="26"> 
+|---|---|---|---|---|
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
