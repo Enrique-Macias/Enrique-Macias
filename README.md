@@ -38,8 +38,8 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ### Frameworks and libraries 📚
 
-| <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/bootstrap.svg" alt="Bootstrap" width="26"> | <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/flutter.svg" alt="Flutter" width="24"> | <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/nodejs.svg" alt="NodeJS" width="24"> | <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/react.svg" alt="React" width="24">
-|---|---|---|---|
+| <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/bootstrap.svg" alt="Bootstrap" width="26"> | <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/nodejs.svg" alt="NodeJS" width="24"> | <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/react.svg" alt="React" width="24">
+|---|---|---|
 
 ### Databases ⛁
 
@@ -48,8 +48,8 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ### To learn 📖
 
-| <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/docker.svg" alt="Docker" width="24"> | <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/mysql.svg" alt="MySQL" width="24"> | <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/tailwindcss.svg" alt="TailwindCSS" width="30"> | <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/mongodb-wordmark.svg" alt="MongoDB" width="64"> | <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/dart.svg" alt="Dart" width="26"> 
-|---|---|---|---|---|
+| <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/docker.svg" alt="Docker" width="24"> | <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/mysql.svg" alt="MySQL" width="24"> | <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/tailwindcss.svg" alt="TailwindCSS" width="30"> | <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/mongodb-wordmark.svg" alt="MongoDB" width="64"> | <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/dart.svg" alt="Dart" width="26"> | <img src="https://github.com/Enrique-Macias/Enrique-Macias/blob/main/Languages-Icons/flutter.svg" alt="Flutter" width="24"> 
+|---|---|---|---|---|---|
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
